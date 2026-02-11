@@ -1,4 +1,4 @@
-### 240820 - Desmos 2D: Globe Modeling
+### 240820 - Desmos 2D: Globe Modeling - Uploaded to Desmos
 - ![[Pasted image 20240820152908.png]]
 - $$\begin{aligned} L_{2}\ & =\ \left[0,\frac{2\pi}{n_{num}},...,2\pi+\frac{2\pi}{n_{num}}\right]\\
 n_{num}&=24\\
