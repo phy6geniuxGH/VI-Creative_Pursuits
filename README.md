@@ -21,3 +21,5 @@
 - MATLAB
 - Plasticity
 - Voxel Max
+- Moho Animation Scripting
+- Godot Scripting
