@@ -23,3 +23,5 @@
 - Voxel Max
 - Moho Animation Scripting
 - Godot Scripting
+- NiceGUI
+- CustomTKinter
