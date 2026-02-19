@@ -25,3 +25,4 @@
 - Godot Scripting
 - NiceGUI
 - CustomTKinter
+- PyGUIBuilder
