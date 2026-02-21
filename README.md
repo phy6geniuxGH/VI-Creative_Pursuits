@@ -26,3 +26,4 @@
 - NiceGUI
 - CustomTKinter
 - PyGUIBuilder
+- Material Maker
