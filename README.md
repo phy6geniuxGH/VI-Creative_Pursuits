@@ -12,6 +12,7 @@
 - Processing Language
 - Blender Geometry Nodes
 - Blender Python API
+- Desmos 2D
 - Desmos Geometry
 - Desmos 3D
 - Anime.js
