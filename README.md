@@ -26,6 +26,7 @@
 - Godot Scripting
 - NiceGUI
 - CustomTKinter
+- Tailwind CSS
 - PyGUIBuilder
 - Material Maker
 - Unreal Engine
