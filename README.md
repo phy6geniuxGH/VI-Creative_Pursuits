@@ -33,3 +33,5 @@
 - VBA Macros for PPT
 - VBA Macros for Excel
 - Zen Trails (Game)
+- Factorio Music Poles
+- Factorio Combinators
