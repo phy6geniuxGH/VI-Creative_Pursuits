@@ -1,6 +1,6 @@
 # Repository for my Creative Projects
 - Visual Arts and Programming
-- p5js
+- p5js (Nature of Code)
 - three.js
 - MANIM library
 - Programmatic Music Production
