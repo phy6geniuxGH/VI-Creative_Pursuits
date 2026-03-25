@@ -25,6 +25,7 @@
 - Moho Animation Scripting
 - Godot Scripting
 - NiceGUI
+- Tkinter
 - CustomTKinter
 - Tailwind CSS
 - PyGUIBuilder
