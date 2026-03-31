@@ -7,6 +7,7 @@
 - TouchDesigner
 - Shadertoy (OpenGL)
 - Pixel Composer
+- Smack Studio
 - Replicube Codes
 - Kodelife Codes
 - Processing Language
