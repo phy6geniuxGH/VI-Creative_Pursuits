@@ -39,3 +39,4 @@
 - Factorio Combinators
 - Godot Shaders
 - cesium.js
+- CSS Animations
