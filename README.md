@@ -37,7 +37,7 @@
 - Zen Trails (Game)
 - Factorio Music Poles
 - Factorio Combinators
-- Godot Shaders
+- Godot Shaders (Godot Shaders Bible)
 - cesium.js
 - CSS Animations
 - Rendering Sessions
