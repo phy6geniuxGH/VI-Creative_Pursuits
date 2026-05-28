@@ -40,6 +40,7 @@
 - Replicube
 - Godot Shaders (Godot Shaders Bible)
 - cesium.js
+- PixelOver
 - CSS Animations
 - Rendering Sessions
 - Shaders Computation
