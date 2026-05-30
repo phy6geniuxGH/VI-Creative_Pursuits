@@ -1,5 +1,5 @@
 # Repository for my Creative Projects
-- Visual Arts and Programming
+- Visual Arts and Programming - using OpenGL/Vulkan 
 - p5js (Nature of Code)
 - three.js
 - MANIM library
