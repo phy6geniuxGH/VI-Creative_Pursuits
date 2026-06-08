@@ -46,6 +46,8 @@
 - Shaders Computation
 - How to Draw and How to Render
 - Procedural Animation
+- Texels
 
 ### Projects
 - Drawing Hands
+- Animating Hands
